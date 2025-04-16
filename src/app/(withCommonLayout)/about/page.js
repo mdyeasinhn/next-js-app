@@ -1,8 +1,7 @@
-import React from 'react';
-
+import style from './About.module.css'
 const AboutPage = () => {
     return (
-        <div>
+        <div className={style.text_color}>
            This is about page..
         </div>
     );

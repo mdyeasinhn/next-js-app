@@ -1,8 +1,8 @@
-import React from 'react';
+import style from './contact.module.css'
 
 const ContactPage = () => {
     return (
-        <div>
+        <div className={style.text_color}>
             This is contact page...
         </div>
     );
