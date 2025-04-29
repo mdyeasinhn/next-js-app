@@ -1,5 +1,5 @@
 import Image from "next/image";
-import nextImg from '../../assets/next-js-logo.png'
+import nextImg from '@/assets/next-js-logo.png'
 
 const GelleryPage = () => {
 
