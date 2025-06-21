@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "productName": "iPhone 14 Pro",
+            "category": "Smartphones",
+            "brand": "Apple",
+            "price": 999,
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-1-202209?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1660753619946"
+        },
+        {
+            "id": "2",
+            "productName": "Galaxy S23 Ultra",
+            "category": "Smartphones",
+            "brand": "Samsung",
+            "price": 1199,
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/bd/sm-s918bzkgxbk/gallery/bd-galaxy-s23-ultra-s918-sm-s918bzkgxbk-535653617"
+        },
+        {
+            "id": "3",
+            "productName": "Air Jordan 1 Retro",
+            "category": "Shoes",
+            "brand": "Nike",
+            "price": 180,
+            "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/6d4c3312-9d99-4b8d-b6d7-8e648e8b53e7/air-jordan-1-retro-high-og-university-blue-release-date.jpg"
+        },
+        {
+            "id": "4",
+            "productName": "MacBook Air M2",
+            "category": "Laptops",
+            "brand": "Apple",
+            "price": 1199,
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-midnight-select-20220606?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1654122880566"
+        },
+        {
+            "id": "5",
+            "productName": "Sony WH-1000XM5",
+            "category": "Headphones",
+            "brand": "Sony",
+            "price": 399,
+            "image": "https://m.media-amazon.com/images/I/61vJ82kV3nL._AC_SL1500_.jpg"
+        },
+        {
+            "id": "6",
+            "productName": "PlayStation 5",
+            "category": "Gaming Console",
+            "brand": "Sony",
+            "price": 499,
+            "image": "https://gmedia.playstation.com/is/image/SIEPDC/playstation-5-with-dualsense-front-product-shot-01-ps5-en-30jul20?$1600px--t$"
+        },
+        {
+            "id": "7",
+            "productName": "Dyson V15 Detect",
+            "category": "Vacuum Cleaner",
+            "brand": "Dyson",
+            "price": 699,
+            "image": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/products/primary/389088-01.png?$responsive$&cropPathE=mobile&fit=stretch,1&wid=640"
+        },
+        {
+            "id": "8",
+            "productName": "Kindle Paperwhite",
+            "category": "E-reader",
+            "brand": "Amazon",
+            "price": 139,
+            "image": "https://m.media-amazon.com/images/I/61XZQXFQeVL._AC_SL1000_.jpg"
+        }
+    ]
+} 
